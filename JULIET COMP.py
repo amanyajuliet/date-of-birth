@@ -1,3 +1,8 @@
+#AMANYA JULIET
+#16/U/3354/PS
+#BSc TELECOM
+
+
 import datetime,calendar
 current_year = 2017
 date = input("Enter your date of birth (1-31)\n")
